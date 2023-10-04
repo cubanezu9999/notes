@@ -1,0 +1,34 @@
+.button {
+  margin-top: 10px;
+  width: 150px;
+  height: 30bpx;
+  margin-bottom: 10px;
+  border: 2px solid #c21859;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 90vw;
+  border: 2px solid #c21859;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.textarea {
+  margin: 10px;
+}
+
+.buttoncontainer {
+  display: flex;
+  gap: 10px;
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.nonotes {
+  margin-top: 30px;
+  font-size: 40px;
+}
