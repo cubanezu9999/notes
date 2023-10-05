@@ -1,9 +1,10 @@
 # notes
-### The progect is hosted to:https://assessment-17b36.web.app/
+### The progect is hosted to: https://assessment-17b36.web.app/
 
 # Getting Started with Create React App
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
+
 After cloning the repository,simply run `npm install`
 
 ## Available Scripts
